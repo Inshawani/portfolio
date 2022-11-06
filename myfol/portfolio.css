@@ -1,0 +1,127 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	overflow-x: hidden;
+	background: black;
+}
+#About{
+	background: lightseagreen;
+       height: 600px;
+}
+
+
+.ab h2{
+	text-align: center;
+	
+
+
+
+}
+.ab h1{
+	text-align: justify;
+	margin-left: 20px;
+}
+.ab p{
+margin-top: 20px;
+margin-left:20px ;
+text-align: justify;
+}
+
+#Skills{
+	width: 100%;
+	height: 900px;
+	background: burlywood;
+
+}
+.sk .skill-content{
+	background: grey;
+	height: 900px;
+	width: 30%;
+	margin-left: 30%;
+}
+.skill-content p{
+
+      padding-left: 1%;
+      font-size: 20px;
+
+}
+
+.skill-content h1{
+	text-align: center;
+	color: black;
+	padding-top: 30px;
+}
+ .sk .skill-content i{
+	
+	font-size: 40px;
+	color: #cda45e;
+	padding-top: 30px;
+	padding-left: 10%;
+}
+
+
+
+.skill-content h5{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+
+}
+.skill-content p{
+	text-align: center;
+	color: white;
+}
+#Education{
+        width: 100%;
+        height: 400px;
+        background: lightblue;
+
+}
+.ed h1{
+         padding-top: 20px;
+          padding-left: 10px;
+
+}
+.ed h3{
+	 padding-top: 20px;
+          padding-left: 10px;
+}
+.ed p{
+	 padding-left: 10px;
+	 padding-top: 10px;
+}
+#Experience{
+	  width: 100%;
+          height: 500px;
+          background: cyan;
+
+}
+.ex h1{
+         padding-top: 40px;
+          padding-left: 5px;
+
+
+}
+.exp p{
+         padding-top: 30px;
+          padding-left: 10px;
+
+}
+#Contact{
+	height: 200px;
+	width: 100%;
+	background: black;
+	color: white;
+
+}
+.con h3{
+	padding-top: 20px;
+}
+.con h5{
+	padding-left: 10px;
+}
+
+
+
